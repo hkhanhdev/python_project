@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Day15-Coffee_machine" />
+    <orderEntry type="module" module-name="Day17-quizProject and the benefits of OOP" />
+    <orderEntry type="module" module-name="Day18Turtle and the graphical user interface(GUI)" />
+    <orderEntry type="module" module-name="Day19-Intances , State and Higher Order functions" />
+    <orderEntry type="module" module-name="Day20-Snake Game part1" />
+  </component>
+</module>

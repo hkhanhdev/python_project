@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Day15-Coffee_machine/.idea/Day15-Coffee_machine.iml" filepath="$PROJECT_DIR$/../Day15-Coffee_machine/.idea/Day15-Coffee_machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day16-Object_oriented_programming.iml" filepath="$PROJECT_DIR$/.idea/Day16-Object_oriented_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python course/Day17-quizProject and the benefits of OOP/.idea/Day17-quizProject and the benefits of OOP.iml" filepath="$PROJECT_DIR$/../../python course/Day17-quizProject and the benefits of OOP/.idea/Day17-quizProject and the benefits of OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day18Turtle and the graphical user interface(GUI)/.idea/Day18Turtle and the graphical user interface(GUI).iml" filepath="$PROJECT_DIR$/../Day18Turtle and the graphical user interface(GUI)/.idea/Day18Turtle and the graphical user interface(GUI).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../python course/Day19-Intances , State and Higher Order functions/.idea/Day19-Intances , State and Higher Order functions.iml" filepath="$PROJECT_DIR$/../../python course/Day19-Intances , State and Higher Order functions/.idea/Day19-Intances , State and Higher Order functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day20-21-Snake Game part1 and part2/.idea/Day20-Snake Game part1.iml" filepath="$PROJECT_DIR$/../Day20-21-Snake Game part1 and part2/.idea/Day20-Snake Game part1.iml" />
+    </modules>
+  </component>
+</project>
