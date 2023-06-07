@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="-------Day32------Send Email (stmplib) and Mange Datetime" />
+    <orderEntry type="module" module-name="-------Day33------API Endpoints and API Parameters" />
+    <orderEntry type="module" module-name="-----------Day34-------GUI Quiz App" />
+    <orderEntry type="module" module-name="Equal-Weight S&amp;P 500 Index Fund" />
+  </component>
+</module>
